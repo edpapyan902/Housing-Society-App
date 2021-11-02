@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "303641716408",
+    "firebase_url": "https://mysociety-5b700-default-rtdb.firebaseio.com",
+    "project_id": "mysociety-5b700",
+    "storage_bucket": "mysociety-5b700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303641716408:android:f4a1261393c3acb299b64d",
+        "android_client_info": {
+          "package_name": "com.svl.housing_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303641716408-9epqnd4dnnl4hhocjl1bumf0a6nj99rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApJVo3V8-2hjtweiyA3jHR23-20s3yzxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303641716408-9epqnd4dnnl4hhocjl1bumf0a6nj99rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
